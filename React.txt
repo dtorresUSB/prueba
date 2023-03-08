@@ -1,0 +1,32 @@
+00:30:20	robert sarmiento:	no es react ?
+00:34:02	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+00:37:16	Asistente Académico 1 Misión TIC:	https://nodejs.org/en/
+00:40:41	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+00:41:54	robert sarmiento:	ose en este caso node js es la carpeta del proyecto  en su caso
+00:41:56	robert sarmiento:	?
+00:45:32	Yessica Andrea Cortes Castillo:	me regalan el enlace de las grabaciones de profundización
+00:50:41	Asistente Académico 1 Misión TIC:	Hola Yessica Cortes , las grabaciones se subirán al material de apoyo
+00:50:55	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+00:51:55	Yessica Andrea Cortes Castillo:	vale gracias
+00:52:01	Mauricio Martinez:	profe, puede ejecutar nodemon desde la terminal instalando la dependencia de manera global
+00:52:13	Mauricio Martinez:	npm i -g nodemon
+00:55:51	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+01:13:02	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+01:15:59	Asistente Académico 1 Misión TIC:	Yo los estoy aceptando
+01:28:19	damia:	por favor podría enviarme el link de las grabaciones  gracias
+01:30:39	Asistente Académico 1 Misión TIC:	Estimados el link de las grabaciones estará disponible en el material de apoyo
+01:30:52	pablito:	no
+01:31:58	Asistente Académico 1 Misión TIC:	Para todos los presentes , el link de las grabaciones estará disponible en el material de apoyo.
+01:32:15	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+01:32:55	robert sarmiento:	podes compartir tu código del archivo index.js
+01:33:40	robert sarmiento:	si
+01:34:54	carlos mendoza:	estas clases las necesitabamos desde inicio de ciclo
+01:38:04	carlos mendoza:	asistente, una consulta en la asistencia pregunta por el ciclo, pero solo hay ciclo 2 y 3 en las opciones, soy de ciclo 4 que coloco
+01:48:54	carlos mendoza:	👍🏽
+01:49:22	Wilder Ofrey Bello Herrera:	podría compartir el git por este medio por favor?
+01:51:35	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+02:04:25	pablito:	link del git profe
+02:04:29	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
+02:06:58	Wilder Ofrey Bello Herrera:	por ahora no
+02:10:50	Gustavo Andres Guerrero Fandiño:	https://github.com/GustavoG18/CRUDUSERS
+02:11:16	Asistente Académico 1 Misión TIC:	LINK DE ASISTENCIAhttps://forms.office.com/r/apmL0fDysp
