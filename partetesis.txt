@@ -1,0 +1,26 @@
+
+\subsection{R-Squared error}
+R-Squared is the ratio of the sum of squares regression (SSR) and the sum of squares total (SST) \cite{ajiteshkumar2022}. 
+\\Sum of Squares Regression (SSR) represents the total variation of all the predicted values found on the regression line or plane from the mean value of all the values of response variables\cite{ajiteshkumar2022}. 
+\\The sum of squares total (SST) represents the total variation of actual values from the mean value of all the values of response variables \cite{ajiteshkumar2022}. 
+\\Getting the equation \ref{eq:ssrsst}
+
+\begin{equation}
+{R^{2}=\frac{SSR}{SST} = \frac{\sum (\hat{y_i} - \bar{y})^{2}}{\sum (y_i - \bar{y})^{2}}}
+\label{eq:ssrsst}
+\end{equation}
+
+\vspace{3cm}
+\\R-squared value is used to measure the goodness of fit. The greater the value of R-Squared, the better the regression model, as most of the variation of actual values from the mean value gets explained by the regression model.
+\\If the value of R-Squared becomes 1 (best case scenario), the model fits the data perfectly with a corresponding MSE = 0. As the value of R-squared increases and become close to 1, the value of MSE becomes close to 0. \cite{ajiteshkumar2022} 
+The equations that describe this other form of R-Squared are as follows:
+
+\begin{equation}
+R^{2}=1-\frac{SSE}{SST}
+\end{equation}
+\begin{equation}
+R^{2}=1-\frac{\frac{1}{n}\sum_{i=1}^{n}(y^{(i)}-\widehat{y}^{i})^{2}}{\frac{1}{n}\sum_{i=1}^{n}(y^{(i)}-\mu_{y})^{2}}
+\end{equation}
+\begin{equation}
+R^{2}=1-\frac{MSE}{Var(y)}
+\end{equation}
